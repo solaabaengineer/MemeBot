@@ -1,6 +1,8 @@
 # MemeBot
 
-MemeBot is an autonomous Python agent that posts memes to X (Twitter) on a schedule.  
+https://x.com/MemeBotAgent
+
+MemeBot is an autonomous agent that posts memes to X (Twitter) on a schedule.  
 It is built for resilient, continuous operation with logging, retry handling, and configurable meme sources.
 
 This repository ships a production-ready baseline you can run locally or deploy to a VM/container.
